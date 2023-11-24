@@ -1,0 +1,16 @@
+.banner{
+    width: 100%;
+    background-color: black;
+    padding-bottom: 2%;
+}
+
+.banner h1 {
+    color: azure;
+    font-size: 35px;
+    text-align: center;
+}
+
+.collection{
+    position: relative;
+    left: 10%;
+}

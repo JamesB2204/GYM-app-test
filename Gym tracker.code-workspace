@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Gym tracker",
+			"path": "."
+		},
+		{
+			"name": "Gym-App",
+			"path": "../../GitHub/Gym-App"
+		}
+	],
+	"settings": {}
+}
